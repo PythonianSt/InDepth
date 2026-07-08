@@ -148,7 +148,7 @@ GREEN:
 # -----------------------------
 # UI
 # -----------------------------
-st.title("🛡️ Private Health Consultation")
+st.title("🛡️ Private Health Consultation: KU KPS Infirmary")
 st.caption("พื้นที่ปรึกษาสุขภาพส่วนตัวสำหรับนักศึกษาและบุคลากร")
 
 with st.expander("📌 ข้อตกลง ความยินยอม และการรักษาความลับ", expanded=True):
